@@ -1,12 +1,11 @@
-[<img src="https://threemammals.com/images/ocelot_logo.png">](https://threemammals.com/ocelot)
+[<img src="https://ik.imagekit.io/adqf5tlxanu/jaguar2_xlXZO-rDA.png">]
 
-[![CircleCI](https://circleci.com/gh/ThreeMammals/Ocelot/tree/master.svg?style=svg)](https://circleci.com/gh/ThreeMammals/Ocelot/tree/master)
+# Jaguar
 
-[![Coverage Status](https://coveralls.io/repos/github/ThreeMammals/Ocelot/badge.svg?branch=master)](https://coveralls.io/github/ThreeMammals/Ocelot?branch=master)
+Jaguar is based on Three Mammals' amazing Ocelot project. This project has the purpose of extending and maintaining this library. All contributors are welcome.
 
-[Slack](https://threemammals.slack.com)
+https://github.com/ThreeMammals/Ocelot
 
-# Ocelot
 
 Ocelot is a .NET API Gateway. This project is aimed at people using .NET running a micro services / service oriented architecture 
 that need a unified point of entry into their system. However it will work with anything that speaks HTTP and run on any platform that ASP.NET Core supports.
