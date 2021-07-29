@@ -2,9 +2,8 @@
 
 # Jaguar
 
-Jaguar is based on Three Mammals' amazing Ocelot project. This project has the purpose of extending and maintaining this library. All contributors are welcome.
-
-https://github.com/ThreeMammals/Ocelot
+> Jaguar is based on Three Mammals' amazing Ocelot project. This project has the purpose of extending and maintaining this library. All contributors are welcome.
+> Original Project:  https://github.com/ThreeMammals/Ocelot
 
 
 Ocelot is a .NET API Gateway. This project is aimed at people using .NET running a micro services / service oriented architecture 
@@ -72,12 +71,3 @@ Please complete the relevant template for issues and PRs. Sometimes it's worth g
 
 Finally we mark all existing issues as help wanted, small, medium and large effort. If you want to contribute for the first time I suggest looking at a help wanted & small effort issue :)
 
-## Donate
-
-If you think this project is worth supporting financially please make a contribution using the button below! We use the money to run the https://threemammals.com website.
-
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/ThreeMammals/)
-
-## Things that are currently annoying me
-
-[![](https://codescene.io/projects/697/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/697/jobs/latest-successful/results)
